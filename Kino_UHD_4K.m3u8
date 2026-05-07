@@ -1,0 +1,20 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Channel: Kino_UHD_4K
+
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_1"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:32:C2:6D&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_2"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B5:8B:6E&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_3"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:32:C2:9D&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_4"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:CF:69:AD&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_5"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:C6:6C:76&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_6"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:D2:1C:D1&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_7"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:B5:97:15&stream=1470620&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=10000000,RESOLUTION=3840x2160,NAME="Server_8"
+http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:DA:8E:5F&stream=1470620&extension=m3u8
